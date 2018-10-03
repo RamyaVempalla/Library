@@ -1,0 +1,8 @@
+C:\Users\Ramya.Vempalla\source\repos\Library\Library.Domain\bin\Debug\netcoreapp2.1\Library.Domain.deps.json
+C:\Users\Ramya.Vempalla\source\repos\Library\Library.Domain\bin\Debug\netcoreapp2.1\Library.Domain.dll
+C:\Users\Ramya.Vempalla\source\repos\Library\Library.Domain\obj\Debug\netcoreapp2.1\Library.Domain.csprojAssemblyReference.cache
+C:\Users\Ramya.Vempalla\source\repos\Library\Library.Domain\obj\Debug\netcoreapp2.1\Library.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ramya.Vempalla\source\repos\Library\Library.Domain\obj\Debug\netcoreapp2.1\Library.Domain.AssemblyInfoInputs.cache
+C:\Users\Ramya.Vempalla\source\repos\Library\Library.Domain\obj\Debug\netcoreapp2.1\Library.Domain.AssemblyInfo.cs
+C:\Users\Ramya.Vempalla\source\repos\Library\Library.Domain\bin\Debug\netcoreapp2.1\Library.Domain.runtimeconfig.json
+C:\Users\Ramya.Vempalla\source\repos\Library\Library.Domain\bin\Debug\netcoreapp2.1\Library.Domain.runtimeconfig.dev.json

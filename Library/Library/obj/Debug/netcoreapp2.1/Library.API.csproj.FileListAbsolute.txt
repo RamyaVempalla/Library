@@ -1,0 +1,11 @@
+C:\Users\Ramya.Vempalla\source\repos\Library\Library\bin\Debug\netcoreapp2.1\Library.API.deps.json
+C:\Users\Ramya.Vempalla\source\repos\Library\Library\bin\Debug\netcoreapp2.1\Library.API.runtimeconfig.json
+C:\Users\Ramya.Vempalla\source\repos\Library\Library\bin\Debug\netcoreapp2.1\Library.API.runtimeconfig.dev.json
+C:\Users\Ramya.Vempalla\source\repos\Library\Library\bin\Debug\netcoreapp2.1\Library.API.dll
+C:\Users\Ramya.Vempalla\source\repos\Library\Library\obj\Debug\netcoreapp2.1\Library.API.csprojAssemblyReference.cache
+C:\Users\Ramya.Vempalla\source\repos\Library\Library\obj\Debug\netcoreapp2.1\Library.API.csproj.CoreCompileInputs.cache
+C:\Users\Ramya.Vempalla\source\repos\Library\Library\obj\Debug\netcoreapp2.1\Library.API.RazorAssemblyInfo.cache
+C:\Users\Ramya.Vempalla\source\repos\Library\Library\obj\Debug\netcoreapp2.1\Library.API.RazorAssemblyInfo.cs
+C:\Users\Ramya.Vempalla\source\repos\Library\Library\obj\Debug\netcoreapp2.1\Library.API.AssemblyInfoInputs.cache
+C:\Users\Ramya.Vempalla\source\repos\Library\Library\obj\Debug\netcoreapp2.1\Library.API.AssemblyInfo.cs
+C:\Users\Ramya.Vempalla\source\repos\Library\Library\obj\Debug\netcoreapp2.1\Library.API.RazorTargetAssemblyInfo.cache
